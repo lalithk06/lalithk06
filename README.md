@@ -6,8 +6,9 @@
 
 ### 🌱 Currently Learning:
 - 💻 **C Programming**
-- 📊 **MATLAB**
+- ⚡ **PCB Designing**
 - 🔧 **Arduino Programming**
+- 📊 **MATLAB**
 - 🛠️ **Exploring Embedded Systems**
 
 ---
