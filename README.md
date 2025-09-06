@@ -60,14 +60,6 @@
 
 ---
 
-### 📊 Leetcode Stats:
-<div align="center">
-  
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/lkishore_06JB?theme=dark&font=Moulpali&ext=heatmap)
-  
-</div>
-
----
 
 ### 📈 Contribution Activity:
 <div align="center">
