@@ -22,14 +22,6 @@
   <a href="[https://instagram.com/yourusername](https://www.instagram.com/itzme_lalith_06?igsh=MTk0dnN4a3Bnemg4Zw==)">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <br/>
-  <a href="https://leetcode.com/u/lkishore_06JB/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <br/>
-  <a href="https://www.hackerrank.com/lkishore06">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
 </p>
 
 ---
