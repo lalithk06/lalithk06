@@ -15,12 +15,12 @@
 
 ### 📬 Connect with Me:
 <p align="left">
-  <a href="[https://www.linkedin.com/in/lalith-kishore/](https://www.linkedin.com/in/lalith-kishore-m-3b410032b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/lalith-kishore-m-3b410032b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <br/>
-  <a href="[https://instagram.com/yourusername](https://www.instagram.com/itzme_lalith_06?igsh=MTk0dnN4a3Bnemg4Zw==)">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/itzme_lalith_06/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
