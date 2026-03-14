@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠 Languages and Tools:
+### Languages and Tools:
 <p align="left">
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lalithk06&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="130" />&nbsp;&nbsp;
@@ -52,7 +52,7 @@
 ---
 
 
-### 📈 Contribution Activity:
+### Contribution Activity:
 <div align="center">
 
 ![Lalith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lalithk06&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true&title_color=ffffff&label_color=ffffff)
