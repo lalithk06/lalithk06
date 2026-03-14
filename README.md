@@ -4,17 +4,16 @@
 
 ---
 
-### 🌱 Currently Learning:
-- 💻 **C Programming**
-- ⚡ **PCB Designing**
-- 🔧 **Arduino Programming**
-- 📊 **MATLAB**
-- 🛠️ **Exploring Embedded Systems**
-
+### Working with:
+- Embedded C Programming
+- ESP32 & Arduino-based Embedded Systems
+- PCB Design using KiCad
+- MATLAB
+  
 ---
 
 ### 📬 Connect with Me:
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/lalith-kishore-m-3b410032b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -62,5 +61,5 @@
 
 ---
 
-💡 "Exploring Arduino, Embedded Systems, and coding every day — learning one commit at a time!"
+💡 "Building embedded systems, designing PCBs, and learning something new with every commit"
 
