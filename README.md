@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2bf0309a-6b97-4e6d-86af-30c37f12125a" width="100%" height="250"/>
+  <img src="https://github.com/user-attachments/assets/1d83d25d-c180-437e-88b8-a58d47b6d9ea" width="100%" />
 </p>
-
 
 <h1 align="center">Hey there, I'm Lalith Kishore 👋</h1>
 
-<h3 align="center">ECE Undergraduate Student</h3>
+<h3 align="center">ECE Undergrad</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Embedded+Systems+Enthusiast;PCB+Designer+%7C+KiCad;Exploring+Communication+%26+Antenna+Design;Think.+Build.+Iterate." />
