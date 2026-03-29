@@ -17,19 +17,6 @@
 - Embedded Systems
 - PCB Design using KiCad
 - MATLAB
-  
----
-
-### 📬 Connect with Me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/lalith-kishore-m-3b410032b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <br/>
-  <a href="lalithkishorem611@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-</p>
 
 ---
 
@@ -51,11 +38,8 @@
 
 ### GitHub Stats:
 <div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalithk06&layout=compact&theme=tokyonight&cache_seconds=1800" height="130" />
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalithk06&theme=tokyonight" height="130" />
-
 </div>
 
 ---
@@ -70,5 +54,17 @@
 
 ---
 
-💡 "Building embedded systems, designing PCBs, and learning something new with every commit"
+### Connect with Me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/lalith-kishore-m-3b410032b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lalithkishorem611@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+  <a href="https://github.com/lalithk06" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</p>
 
+---
