@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanN6NDJ3cTNhYXdsbmRkd2kwcnpud2ZqdWh1anJhZnRiNGk2ajdiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q8ld8Sk7WWyY0/giphy.gif)" width="800"/>
+  <img src="https://github.com/user-attachments/assets/2bf0309a-6b97-4e6d-86af-30c37f12125a" width="100%" height="250"/>
 </p>
+
 
 <h1 align="center">Hey there, I'm Lalith Kishore 👋</h1>
 
