@@ -1,6 +1,14 @@
+<p align="center">
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanN6NDJ3cTNhYXdsbmRkd2kwcnpud2ZqdWh1anJhZnRiNGk2ajdiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q8ld8Sk7WWyY0/giphy.gif)" width="800"/>
+</p>
+
 <h1 align="center">Hey there, I'm Lalith Kishore 👋</h1>
 
 <h3 align="center">ECE Undergraduate Student</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Embedded+Systems+Enthusiast;PCB+Designer+%7C+KiCad;Exploring+Communication+%26+Antenna+Design;Think.+Build.+Iterate." />
+</p>
 
 ---
 
