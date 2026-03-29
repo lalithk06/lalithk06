@@ -34,18 +34,17 @@
 ---
 
 ### Languages and Tools:
-<p align="left">
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/38585790-5ae4-4732-83d2-0074e74c17b5" alt="KiCad" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/3f5eebc1-9098-4199-8b39-8150e4b72c08" alt="CST Microwave Studio Suite" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/3c0bd487-196b-4fb1-92c3-53b143db077e" alt="LTspice" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/38585790-5ae4-4732-83d2-0074e74c17b5" alt="KiCad" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/3c0bd487-196b-4fb1-92c3-53b143db077e" alt="LTspice" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/7cf237cd-c343-4033-a257-f8db287e00c6" alt="DOSBOX" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>&nbsp;
-
 </p>
 
 ---
