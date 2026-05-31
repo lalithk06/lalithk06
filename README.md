@@ -5,7 +5,7 @@
 <h1 align="center">Hey there, I'm Lalith Kishore 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=ECE+Undergrad+%7C+SSN+College+of+Engineering;Embedded+Systems+%26+PCB+Design+Enthusiast;Building+Real+Hardware+%7C+Think.+Build.+Iterate.;e-Yantra+Robotics+%7C+IEEE+ComSoc+Design+Team" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=ECE+Undergrad;Embedded+Systems+%26+PCB+Design+Enthusiast;Building+Real+Hardware+%7C+Think.+Build.+Iterate." alt="Typing SVG" />
 </p>
 
 <p align="center">
