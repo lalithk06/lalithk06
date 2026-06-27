@@ -41,10 +41,12 @@
 **Hardware & EDA Tools**
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![CST Studio](https://img.shields.io/badge/CST_Microwave_Studio-003399?style=flat-square&logoColor=white)
+![Vivado](https://img.shields.io/badge/AMD_Xilinx_Vivado-E01F27?style=flat-square&logo=amd&logoColor=white)
+![Cadence Virtuoso](https://img.shields.io/badge/Cadence_Virtuoso-CC0000?style=flat-square&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-8B0000?style=flat-square&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Fusion360](https://img.shields.io/badge/Fusion_360-E06C1A?style=flat-square&logo=autodesk&logoColor=white)
-![LTspice](https://img.shields.io/badge/LTspice-8B0000?style=flat-square&logoColor=white)
-![CST Studio](https://img.shields.io/badge/CST_Microwave_Studio-003399?style=flat-square&logoColor=white)
 
 **Core Domains**
 
