@@ -25,7 +25,7 @@
 
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" />
 
-> I'm an Electronics & Communication Engineering undergrad who gets genuinely excited about hardware — the kind where you can touch it, probe it, and watch it fail in interesting ways. I care about understanding systems at the signal level, not just making them *work* but knowing *why* they work. Right now I'm deep into PCB design, embedded firmware, and slowly pulling RF and antenna theory into my world. I build things to learn, and I learn best when something breaks.
+> I'm an Electronics & Communication Engineering undergrad who gets genuinely excited about hardware — the kind where you can touch it, probe it, and watch it fail in interesting ways. I care about understanding systems at the signal level, not just making them *work* but knowing *why* they work. Right now I'm deep into PCB design, VLSI design, and slowly pulling RF and antenna theory into my world. I build things to learn, and I learn best when something breaks.
 
 ---
 
@@ -44,7 +44,6 @@
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
 ![CST Studio](https://img.shields.io/badge/CST_Microwave_Studio-003399?style=flat-square&logoColor=white)
 ![Vivado](https://img.shields.io/badge/AMD_Xilinx_Vivado-E01F27?style=flat-square&logo=amd&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![OpenLane2](https://img.shields.io/badge/OpenLane2-0F766E?style=flat-square&logoColor=white)
 ![Cadence Virtuoso](https://img.shields.io/badge/Cadence_Virtuoso-CC0000?style=flat-square&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-8B0000?style=flat-square&logoColor=white)
@@ -53,9 +52,8 @@
 
 **Core Domains**
 
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-27273F?style=flat-square&logo=arm&logoColor=white)
 ![PCB Design](https://img.shields.io/badge/PCB_Design-009900?style=flat-square&logo=altiumdesigner&logoColor=white)
-![Signal Processing](https://img.shields.io/badge/Signal_Processing-5C6BC0?style=flat-square&logo=soundcharts&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-27273F?style=flat-square&logo=arm&logoColor=white)
 ![Digital Electronics](https://img.shields.io/badge/Digital_Electronics-FF6F00?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Analog Electronics](https://img.shields.io/badge/Analog_Electronics-00838F?style=flat-square&logoColor=white)
 
@@ -63,7 +61,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
