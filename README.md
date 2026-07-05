@@ -106,11 +106,13 @@
 ## 🌱 Currently Exploring
 
 ```
-📡 RF & Antennas      →  CST Microwave Studio, antenna fundamentals, S-parameters
 🧮 Verilog & HDL      →  Combinational logic, FSMs, simulation with ModelSim
-🔌 Embedded Firmware  →  Bare-Metal C, RTOS basics, interrupt-driven design
+⚡ Digital VLSI       →  CMOS Logic Design, RTL Design, FPGA Design Flow, Basic ASIC Flow, Timing Concepts
+🔬 Analog IC Design   →  Cadence Virtuoso, Schematic, Layout, DRC/LVS, Post-Layout Simulation
+📡 RF & Antennas      →  CST Microwave Studio, antenna fundamentals, S-parameters
 🛠️ PCB Design         →  Advanced KiCad, DRC/ERC, impedance-controlled routing
-🤖 Robotics           →  Kinematics, sensor fusion, PID tuning, e-Yantra frameworks
+🔧 Embedded Systems   → ESP32, Arduino, GPIO, UART, I²C, SPI, PWM, Sensors & Actuators
+
 ```
 
 ---
