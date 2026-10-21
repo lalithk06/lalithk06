@@ -5,7 +5,7 @@
 <h1 align="center">Hey there, I'm Lalith Kishore 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=ECE+Undergrad;Embedded+Systems+%26+PCB+Design+Enthusiast;Building+Real+Hardware+%7C+Think.+Build.+Iterate." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=ECE+Undergrad;RTL+Design+%26+Verification+Enthusiast;PCB+Design+Enthusiast;Building+Real+Hardware+%7C+Think.+Build.+Iterate." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -33,29 +33,42 @@
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog_HDL-8A2BE2?style=flat-square&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logo=mathworks&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+
 **Hardware & EDA Tools**
 
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-![CST Studio](https://img.shields.io/badge/CST_Microwave_Studio-003399?style=flat-square&logoColor=white)
-![Vivado](https://img.shields.io/badge/AMD_Xilinx_Vivado-E01F27?style=flat-square&logo=amd&logoColor=white)
-![OpenLane2](https://img.shields.io/badge/OpenLane2-0F766E?style=flat-square&logoColor=white)
-![Cadence Virtuoso](https://img.shields.io/badge/Cadence_Virtuoso-CC0000?style=flat-square&logoColor=white)
-![LTspice](https://img.shields.io/badge/LTspice-8B0000?style=flat-square&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Fusion360](https://img.shields.io/badge/Fusion_360-E06C1A?style=flat-square&logo=autodesk&logoColor=white)
+**[![Vivado](https://img.shields.io/badge/AMD_Xilinx_Vivado-E01F27?style=flat-square&logo=amd&logoColor=white)](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html)**
+**[![Yosys](https://img.shields.io/badge/Yosys-4B5563?style=flat-square&logoColor=white)](https://yosyshq.net/yosys/)**
+**[![OpenLane2](https://img.shields.io/badge/OpenLane2-0F766E?style=flat-square&logoColor=white)](https://github.com/efabless/openlane2)**
+**[![OpenROAD](https://img.shields.io/badge/OpenROAD-2563EB?style=flat-square&logoColor=white)](https://openroad.org/)**
+**[![OpenSTA](https://img.shields.io/badge/OpenSTA-7C3AED?style=flat-square&logoColor=white)](https://github.com/The-OpenROAD-Project/OpenSTA)**
+**[![Magic VLSI](https://img.shields.io/badge/Magic_VLSI-9333EA?style=flat-square&logoColor=white)](http://opencircuitdesign.com/magic/)**
+**[![Netgen](https://img.shields.io/badge/Netgen-475569?style=flat-square&logoColor=white)](https://github.com/RTimothyEdwards/netgen)**
+**[![KLayout](https://img.shields.io/badge/KLayout-0891B2?style=flat-square&logoColor=white)](https://www.klayout.de/)**
+**[![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)](https://www.kicad.org/)**
+**[![CST Studio](https://img.shields.io/badge/CST_Microwave_Studio-003399?style=flat-square&logoColor=white)](https://www.3ds.com/products/simulia/cst-studio-suite)**
+**[![Cadence Virtuoso](https://img.shields.io/badge/Cadence_Virtuoso-CC0000?style=flat-square&logoColor=white)](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/circuit-design.html)**
+**[![PSpice](https://img.shields.io/badge/PSpice-CC0000?style=flat-square&logoColor=white)](https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/analog-mixed-signal-simulation/pspice.html)**
+**[![LTspice](https://img.shields.io/badge/LTspice-8B0000?style=flat-square&logoColor=white)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)**
+**[![NGspice](https://img.shields.io/badge/NGspice-64748B?style=flat-square&logoColor=white)](https://ngspice.sourceforge.io/)**
+**[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software/)**
+**[![Fusion360](https://img.shields.io/badge/Fusion_360-E06C1A?style=flat-square&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360/overview)**
 
 **Core Domains**
 
+![RTL Design](https://img.shields.io/badge/RTL_Design-8A2BE2?style=flat-square&logo=verilog&logoColor=white)
 ![PCB Design](https://img.shields.io/badge/PCB_Design-009900?style=flat-square&logo=altiumdesigner&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-27273F?style=flat-square&logo=arm&logoColor=white)
 ![Digital Electronics](https://img.shields.io/badge/Digital_Electronics-FF6F00?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Analog Electronics](https://img.shields.io/badge/Analog_Electronics-00838F?style=flat-square&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-27273F?style=flat-square&logo=arm&logoColor=white)
+
 
 **Dev Tools**
 
@@ -103,12 +116,14 @@
 ## 🌱 Currently Exploring
 
 ```
-🧮 Verilog & HDL      →  Combinational logic, FSMs, simulation with ModelSim
-⚡ Digital VLSI       →  CMOS Logic Design, RTL Design, FPGA Design Flow, Basic ASIC Flow, Timing Concepts
-🔬 Analog IC Design   →  Cadence Virtuoso, Schematic, Layout, DRC/LVS, Post-Layout Simulation
-📡 RF & Antennas      →  CST Microwave Studio, antenna fundamentals, S-parameters
-🛠️ PCB Design         →  Advanced KiCad, DRC/ERC, impedance-controlled routing
-🔧 Embedded Systems   → ESP32, Arduino, GPIO, UART, I²C, SPI, PWM, Sensors & Actuators
+🧮 Verilog & HDL       →  Combinational logic, FSMs, simulation with ModelSim
+⚡ Digital VLSI        →  CMOS Logic Design, RTL Design, FPGA Design Flow, Basic ASIC Flow, Timing Concepts
+🔬 Analog IC Design    →  Cadence Virtuoso, Schematic, Layout, DRC/LVS, Post-Layout Simulation
+📡 RF & Antennas       →  CST Microwave Studio, antenna fundamentals, S-parameters
+🛠️ PCB Design          →  Advanced KiCad, DRC/ERC, impedance-controlled routing
+🔧 Embedded Systems    →  ESP32, Arduino, GPIO, UART, I²C, SPI, PWM, Sensors & Actuators
+💻 Backend Development →  Java, SQL, APIs, Server-Side Programming
+🧠 DSA                 →  Data Structures & Algorithms, Problem Solving
 
 ```
 
