@@ -45,6 +45,9 @@
 **Hardware & EDA Tools**
 
 **[![Vivado](https://img.shields.io/badge/AMD_Xilinx_Vivado-E01F27?style=flat-square&logo=amd&logoColor=white)](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html)**
+**[![ModelSim](https://img.shields.io/badge/ModelSim-007ACC?style=flat-square&logoColor=white)](https://eda.sw.siemens.com/en-US/ic/modelsim/)**
+**[![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-6B7280?style=flat-square&logoColor=white)](https://steveicarus.github.io/iverilog/)**
+**[![Verilator](https://img.shields.io/badge/Verilator-4B5563?style=flat-square&logoColor=white)](https://www.veripool.org/verilator/)**
 **[![Yosys](https://img.shields.io/badge/Yosys-4B5563?style=flat-square&logoColor=white)](https://yosyshq.net/yosys/)**
 **[![OpenLane2](https://img.shields.io/badge/OpenLane2-0F766E?style=flat-square&logoColor=white)](https://github.com/efabless/openlane2)**
 **[![OpenROAD](https://img.shields.io/badge/OpenROAD-2563EB?style=flat-square&logoColor=white)](https://openroad.org/)**
